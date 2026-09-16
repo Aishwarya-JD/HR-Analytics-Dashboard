@@ -143,7 +143,9 @@ Contains:
 
 ### Main HR Analytics Dashboard
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c05349e-957c-46a0-9f63-78e85e8ee228" />
+<img width="1330" height="745" alt="HR Dashboard - AJD" src="https://github.com/user-attachments/assets/22e49e7d-4692-4e7a-a24c-1d0e9b574cf6" />
+
+
 
 
 ---
@@ -184,10 +186,12 @@ Contains:
 
 ---
 
-## Author
+## 👨‍💻 Author **Aishwarya Jayant Dixit** Aspiring Data Analyst | Business Intelligence Enthusiast 
+LinkedIn: https://www.linkedin.com/in/aishwarya-jayant-dixit-399b56211
 
-**Aishwarya Jayant Dixit**
+GitHub: https://github.com/Aishwarya-JD
 
-Power BI | Data Analytics | Business Intelligence
+--- 
 
+## ⭐ If You Like This Project Please consider giving the repository a star to support future analytics projects.
 ---
