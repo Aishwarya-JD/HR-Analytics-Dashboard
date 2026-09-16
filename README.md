@@ -143,8 +143,7 @@ Contains:
 
 ### Main HR Analytics Dashboard
 
-<img width="1330" height="745" alt="HR Dashboard - AJD" src="https://github.com/user-attachments/assets/22e49e7d-4692-4e7a-a24c-1d0e9b574cf6" />
-
+<img width="1317" height="740" alt="HR Dashboard - AJD" src="https://github.com/user-attachments/assets/b033639b-0b27-4409-8843-b62a45bbfa5d" />
 
 
 
